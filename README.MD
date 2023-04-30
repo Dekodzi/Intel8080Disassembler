@@ -1,4 +1,4 @@
-#INTEL8080 DISASSEMBLER
+# INTEL8080 DISASSEMBLER
 
 This project is fairy simple. It translates Intel8080 machine code into assembly, according to 8080 Assembly Language Programming Manual. It can decode many files into one output file.
 
