@@ -5,11 +5,10 @@ This project is fairy simple. It translates Intel8080 machine code into assembly
 ## Instalation.
 
 In order to install, you need to compile it. This project doesn't need any dependencies. 
-Linux & Mac OS (for example g++ since it's very easy)
+Linux & Mac OS
 ```bash
 g++ disassembler.cpp translate.cpp -o disassembler
-```
-Windows 
+``` 
 Windows is an elephant in this room. I suggest using WSL and g++ (see an example above). It's also possible to plug it into some IDE like Code::Blocks or Visual Studio.
 
 ## Usage
